@@ -2,19 +2,19 @@
 
 This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
 
-## Getting Help
+# Getting Help
 
 JogetOSS is a community-led team for open source software related to the [Joget](https://github.com/jogetworkflow/jw-community) no-code/low-code application platform.
 Projects under JogetOSS are community-driven and community-supported.
 To obtain support, ask questions, get answers and help others, please participate in the [Community Q&A](https://answers.joget.org/).
 
-## Contributing
+# Contributing
 
 This project welcomes contributions and suggestions, please open an issue or create a pull request.
 
 Please note that all interactions fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Licensing
+# Licensing
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
