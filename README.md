@@ -12,7 +12,7 @@ To obtain support, ask questions, get answers and help others, please participat
 
 This project welcomes contributions and suggestions, please open an issue or create a pull request.
 
-Please note that all interactions fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please note that all interactions fall under our [Code of Conduct](https://github.com/jogetoss/repo-template/blob/main/CODE_OF_CONDUCT.md).
 
 # Licensing
 
