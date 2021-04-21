@@ -4,7 +4,7 @@ This repository is meant to serve as a general template for how to set up new re
 
 # Getting Help
 
-JogetOSS is a community-led team for open source software related to the [Joget](https://github.com/jogetworkflow/jw-community) no-code/low-code application platform.
+JogetOSS is a community-led team for open source software related to the [Joget](https://www.joget.org) no-code/low-code application platform.
 Projects under JogetOSS are community-driven and community-supported.
 To obtain support, ask questions, get answers and help others, please participate in the [Community Q&A](https://answers.joget.org/).
 
